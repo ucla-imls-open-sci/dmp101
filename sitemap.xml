@@ -13,6 +13,9 @@
     <loc>https://ucla-imls-open-sci.github.io/dmp101/aio.html</loc>
   </url>
   <url>
+    <loc>https://ucla-imls-open-sci.github.io/dmp101/dmp.html</loc>
+  </url>
+  <url>
     <loc>https://ucla-imls-open-sci.github.io/dmp101/images.html</loc>
   </url>
   <url>
@@ -29,6 +32,9 @@
   </url>
   <url>
     <loc>https://ucla-imls-open-sci.github.io/dmp101/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/dmp101/instructor/dmp.html</loc>
   </url>
   <url>
     <loc>https://ucla-imls-open-sci.github.io/dmp101/instructor/images.html</loc>
@@ -52,6 +58,9 @@
     <loc>https://ucla-imls-open-sci.github.io/dmp101/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://ucla-imls-open-sci.github.io/dmp101/instructor/supporting-researchers.html</loc>
+  </url>
+  <url>
     <loc>https://ucla-imls-open-sci.github.io/dmp101/instructor-notes.html</loc>
   </url>
   <url>
@@ -65,5 +74,8 @@
   </url>
   <url>
     <loc>https://ucla-imls-open-sci.github.io/dmp101/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://ucla-imls-open-sci.github.io/dmp101/supporting-researchers.html</loc>
   </url>
 </urlset>
