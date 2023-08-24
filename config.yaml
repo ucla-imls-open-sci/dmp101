@@ -61,7 +61,9 @@ contact: 'daria.orlowska@wmich.edu'
 episodes:
 - introduction.md
 - dmp.md
+- data-resources.md
 - supporting-researchers.md
+- prioritizing-services.md
 
 # Information for Learners
 learners:
