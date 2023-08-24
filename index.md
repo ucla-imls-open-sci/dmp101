@@ -2,8 +2,14 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+## Learning Objectives
 
+After attending the training, participants will be able to:
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
+-   Provide an overview of the DMP
 
+-   Find DMP resources
+
+-   Answer research DMP questions
+
+-   Determine data services to integrate into workflows
