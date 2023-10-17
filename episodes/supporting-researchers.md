@@ -1,101 +1,126 @@
 ---
-title: 'supporting-researchers'
+title: 'Supporting Researchers'
 teaching: 10
 exercises: 2
 ---
 
-:::::::::::::::::::::::::::::::::::::: questions 
+::: questions
+- How does a data interview compare to a reference interview?
+- What are common researcher questions about the DMP process?
+:::
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: objectives
-
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
-
-::::::::::::::::::::::::::::::::::::::::::::::::
+::: objectives
+- Identify the difference between a data interview and a reference interview
+- Construct questions for a data interview
+- Answer common researcher questions about the DMP process
+:::
 
 ## Introduction
+In this lesson, we pivot from learning about DMPs into how to apply this knowledge when serving patrons. We will provide insights into common questions and concerns researchers have about the DMP process, and describe strategies on how to effectively conduct a data interview.
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
-[R Markdown][r-markdown] for dynamic files that can render code into output
-(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
-Workbench][carpentries-workbench] for full documentation.
+## Data Interview
+According to the [NNLM’s data glossary](https://www.nnlm.gov/guides/data-glossary/data-interview), “a data interview in the library context refers to an interaction between a librarian and a researcher with a structured or semi-structured set of questions designed to elicit information about the researcher’s data practices and/or needs.” 
+This process is essentially a specialized subcategory of the reference interview, and is a good first step in helping a researcher prepare a DMP.
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson template:
+Just like the reference interview begins with establishing a background purpose (“what is this information being used for”), you might want to begin broadly by asking researchers about their project and its purpose. This can help you to begin formulating follow-up questions that will extrapolate the researcher’s needs.
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+Librarian: “Please tell me a little bit about your project and its purpose”
+Researcher: “I am running a project about the impact of pets on the emotional well-being of children.”
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+Even short responses can give you an idea of who/what is the subject of the research, how sensitive this data may be, and the potential formats of the data. Even with this short response, you have already found out this is a human subjects study, and that this researcher will need additional accommodations if they want to share their dataset. Like in a reference interview, it is useful to paraphrase the project back to the researcher and ask clarifying questions to make sure you have a good grasp of the research purpose.
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+After establishing the purpose of the project, it is helpful to ask about where the researcher is applying for grant funding and their timeline for submitting materials. Researchers who are not applying for grant funding can still benefit from writing a data management plan, and these questions can help them consider their project needs and what workflows need to be put into place.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Next, we move on to follow-up questions that relate to the DMP sections. Like in a reference interview, these questions move from open-ended to closed, specific questions to clarify needs not raised by the researcher. Use the purpose of the project to inform your questions, and help the researcher think through their workflow and needs. Sometimes the researcher will answer “I am not sure”. This is an opportunity to explore what they think they will do, and to provide some options as to how they may proceed. Remind the researcher that a DMP can (and should) be updated as necessary to better align with their procedures as the project evolves. 
 
-::::::::::::::::::::::::::::::::::::: challenge 
+### Follow-up questions on data description and size
 
-## Challenge 1: Can you do it?
+- What is your target sample size?
+- How are you collecting data?
+  - Are you using structured questionnaires or interviews?
+  - Are you interacting with subjects directly or indirectly?
+    - Talking with the subject
+    - Talking to their guardians or a third party
+    - Recording observation
+  - Are you taking video, audio recordings, or images?
+    - What devices are you using?
+    - For videos/audio recordings, how long are the recordings? In what format?
+  - Are you collecting data any other way?
+    - Scans
+    - Measurements
+- Is the collected data in a physical format (such as on paper) or in a digital format (through a computer or other electronic device)?
+- How often are you collecting information for each subject throughout the study?
 
-What is the output of this command?
+### Follow-up questions on metadata and data standards
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+- How are you documenting your variables?
+    - Are you using abbreviations that need defining?
+    - Does your data have units that need clarification?
+    - Are you using derived variables (variables obtained by combining or coding other variables)?
+- Does your discipline have any requirements for how you should be describing your dataset?
+  - Are you using a set of words standard to your field (controlled vocabulary)?
+- What minimum information would colleagues need to know to
+  - Recreate your research study?
+  - Recreate your analyses?
 
-:::::::::::::::::::::::: solution 
+### Follow-up questions on preservation and access
+- Where are you storing the paper copies of the questionnaires?
+- Where are you storing the audio recordings of your interviews? 
+  - Are you planning on transcribing your interviews?
+- What software are you using to
+  - code your data (Excel, Google sheets, SPSS etc)?
+  - analyze your data?
+- Have you considered file naming conventions or file structures to help you find your files more easily?
+- If using a proprietary software, are you planning on saving your files in an open format for sharing and long-term preservation?
 
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
+::: callout
+Proprietary software is owned by an organization that requires a license or a fee to access. Typically, this software will generate files formats specific to it (such as Excel .xlsx), and it might be difficult to open or manipulate it using other software. Converting these data files into an open format, a version that is easily accessible by many pieces of software, makes data more FAIR (such as from .xlsx to .csv or .tsv). For a list of open access file formats, please see the resources in Episode 6. 
+:::
 
-:::::::::::::::::::::::::::::::::
+### Follow-up questions on access and reuse
+- Are you planning on sharing your data in the future?
+    - Do you have any obligations from your funder to share your data?
+    - Where are you planning on publishing your articles? Does the publisher have any data sharing requirements?
+- If you are planning on sharing your data in the future, is data sharing explicitly addressed in the consent form?
+- If you are planning on sharing data in the future, do you have a sense of where you want to deposit your research data when the time comes?
+  - Discuss repository options
+- Do you need to de-identify or aggregate your data before you can share your data?
+  - Discuss embargoes, controlled vs open access
+
+### Follow-up questions on oversight
+- Who is coding your data? How are you maintaining accuracy?
+    - Data checks? Double entry? Controlled entry?
+- Who is responsible for backing up your data? How often?
+- Who is responsible for preserving your data long term?
+- Who is responsible for depositing your data?
+
+::: callout
+Researchers may ask if they can list you as the librarian for helping them plan the data management activities specified in the DMP. Unless they are compensating you for your time and writing your name into the grant to manage the data on the project, remind them that this section is for listing who is carrying out these activities. Typically, the PI (primary investigator) is responsible for this activity, however lab managers or other staff may also be listed.
+:::
+
+### Follow-up questions on budget
+
+- Where are you planning on storing your data during the active research phase?
+  - Do you need additional or specific types of platforms that the university does not provide? Do these have costs?
+- Do you need to pay someone to manage your research data?
+- Do you need to pay for data de-identification or curation?
+- Do you need to pay for your dataset deposit?
+
+## Tips for talking with researchers
+- Researchers have not been formally trained in data management and may not think about their project through this lens
+- Researchers speak a different language - they may assign a different meaning to metadata or data standards 
+- Researchers are not accustomed to submitting data to a repository
+- There are many reasons a researcher may be hesitant to share their data. This can include a lack of sharing culture within their disciple, fear of their research getting “scooped” (having your research idea or results published by someone else), or the additional labor associated with preparing their dataset after the active research phase.
 
 
-## Challenge 2: how do you nest solutions within challenge blocks?
+## Assessments
 
-:::::::::::::::::::::::: solution 
+### Mock Data Interview
 
-You can add a line with at least three colons and a `solution` tag.
+Conduct a data interview with a classmate. The “researcher” will read the scenario below, but the “librarian” will not. The researcher can feel free to fill in any details needed to answer the questions from the librarian – these scenarios have been left intentionally domain agnostic. Then switch.
 
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Figures
+**Scenario 1:** You are a researcher writing a grant proposal to be submitted to the NIH. You have heard that a data management and sharing plan is required for NIH grant applications, but you don’t know any details.\
+**Scenario 2:** You are a researcher working to publish an article in a journal. You have just found out you need to make your data open by depositing it in a repository to satisfy journal requirements. You aren’t sure which repository to choose.
 
-You can use pandoc markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
-
-::::::::::::::::::::::::::::::::::::: keypoints 
-
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
-
-::::::::::::::::::::::::::::::::::::::::::::::::
 
