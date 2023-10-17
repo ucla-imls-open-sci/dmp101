@@ -59,9 +59,8 @@ contact: 'Daria Orlowska at daria.orlowska@wmich.edu'
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.md
 - dmp.md
-- data-resources.md
+- dmp-resources.md
 - supporting-researchers.md
 - prioritizing-services.md
 - dmptool.md
