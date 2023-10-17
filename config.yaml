@@ -58,20 +58,23 @@ contact: 'Daria Orlowska at daria.orlowska@wmich.edu'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes:
+episodes: 
 - dmp.md
 - dmp-resources.md
 - supporting-researchers.md
 - prioritizing-services.md
+- dmptool.md
+- data-management-plan-sevices.md
+- conclusion-and-further-reading.md
 
 # Information for Learners
-learners:
+learners: 
 
 # Information for Instructors
-instructors:
+instructors: 
 
 # Learner Profiles
-profiles:
+profiles: 
 
 # Customisation ---------------------------------------------
 #
