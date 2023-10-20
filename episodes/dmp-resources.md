@@ -72,6 +72,7 @@ In addition to lack of sustainability, personal websites, article supplementary 
 :::
 
 Through repositories, several options are available to researchers for data sharing:
+
 - **Public access.** Public datasets are available to all without restriction. This is commonly used for animal studies or data without privacy concerns.
 - **Controlled access.** In a controlled access repository, researchers must verify their identity before they are allowed to download and analyze data. This can take the form of verifying a university-associated email address, signing a data use agreement, or sending in an application before access is granted. Some repositories, such as Vivli, which specializes in clinical trial data, require that sensitive data be analyzed in a controlled cloud computing environment. Others, like ICPSR, may require that their restricted datasets be accessed on-site, using a computer not connected to the internet.
 - **Embargoes.** Most repositories allow for datasets to be embargoed. Data sets may be embargoed for a number of reasons. For example, the researchers may not wish to publish their data until the accompanying article is available, or they may be pursuing a patent based on their discoveries.
