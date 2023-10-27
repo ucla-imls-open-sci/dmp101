@@ -87,9 +87,9 @@ Here are the types of data repositories that researchers can use for sharing dat
 Institutional repositories vary in their ability to accept and maintain data. Before commiting to using an institutional repository, check that they routinely accept data.
 :::
 
-![](fig/Copy of Repository choice flow chart.png)
-
 Recommending a data repository for inclusion in a DMP can be challenging. Generally, it is best to recommend a specialist repository, followed by an institutional or generalist repository. Here are some tools to help you find the right data repository for your researcher:
+
+![This chart shows a basic workflow to help you choose a repository](fig/Copy of Repository choice flow chart.png)
 
 - **Repository indices.** Locating the right data repository for your researcher among the thousands in existence may be challenging, especially if you are not familiar with where others in the discipline are depositing their datasets. Luckily, there are a number of repository indices that aggregate data repositories and provide filters to facilitate pinpointing the one that works best for your researcher. [FAIRsharing](https://fairsharing.org/) and [re3data](https://www.re3data.org/) are good starting points when you are not aware if a specialist repository exists for a given discipline.
 - **Funder recommendations.** Some funders like the [AHA](https://professional.heart.org/en/research-programs/awardee-policies/aha-approved-data-repositories) or the [NIH provide recommendations](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) for where their funded projects should share their data after the active research phase has concluded– the [NNLM Data Repository Finder](https://www.nnlm.gov/finder) provides more guidance for finding an NIH-supported repository.
@@ -109,7 +109,7 @@ Some of the most common data management questions data librarians receive revolv
 
 There are many types of data standards, including:
 
-- **File type.** When curating a dataset to share, researchers should convert their data to an [open file format](https://opendatahandbook.org/guide/en/appendices/file-formats/. For instance, spreadsheets should be made available as a CSV rather than an excel document (XLSX). Using standardized open file types is a data standard.
+- **File type.** When curating a dataset to share, researchers should convert their data to an [open file format](https://opendatahandbook.org/guide/en/appendices/file-formats/). For instance, spreadsheets should be made available as a CSV rather than an excel document (XLSX). Using standardized open file types is a data standard.
 - **Controlled vocabularies/ontologies.** A controlled vocabulary ensures data standardization by limiting the number of terms that can be used in a given field. Librarians often use controlled vocabularies when cataloging, for example [MESH](https://www.ncbi.nlm.nih.gov/mesh/) for medical subject terms, or the [Getty AAT](https://www.getty.edu/research/tools/vocabularies/aat/index.html) for art terms. Researchers can also use controlled vocabularies in their work to ensure interoperability across studies.
 - **Minimum information.** Minimum information standards, such as the [MINSEQE](https://zenodo.org/record/5706412), specify the minimum amount of metadata and data required for different data types. This helps to facilitate reuse and prevent mystery datasets without documentation from coming into a repository.
 - **Metadata schema.** A metadata schema defines the elements of metadata for an object and how those elements can be used to describe a specific resource. Many librarians are familiar with metadata schemas such as [MARC](https://www.loc.gov/marc/) or [Dublin Core](https://www.dublincore.org/), but there are also specialized metadata schemas for particular research fields.
@@ -168,17 +168,25 @@ The example study contains sensitive data because it deals with a non-adult inca
 
 :::
 
+::: challenge
 ## Think-Pair-Share (Optional activity)
 
 A researcher who is planning to conduct a clinical trial for a new Multiple Sclerosis medication comes to you. They know that their funder will require them to submit a DMP and share their data. They need to find what data standards are common for clinical trials and decide which repository to deposit their data.
 
 1. Recommend a repository for this researcher.
-     a. Answers will vary, but one acceptable response is Vivli. To find which data repositories accept clinical trial data, use the NNLM data repository finder and check off “Clinical Trials” under question 4.
+
 1. Recommend a data standard this researcher could consider using.
-     a. Answers will vary. We can see [Vivli’s guidance on data standards](https://vivli.org/wp-content/uploads/2023/01/NIH-DMSP-Template-and-Budget-Justification-Using-Vivli-v1.0.docx#:~:text=VIVLI%20Notes%3A%20Vivli%20does%20not,%2C%20csv)%20used%20for%20analysis.), where they recommend following [CDISC standards](https://www.cdisc.org/standards/therapeutic-areas).
 
-Discuss your answer and how you arrived at that conclusion with a partner
+Discuss your answer and how you arrived at that conclusion with a partner.
 
+::: solution
+1. Answers will vary, but one acceptable response is Vivli. To find which data repositories accept clinical trial data, use the NNLM data repository finder and check off “Clinical Trials” under question 4.
+1. Answers will vary. We can see [Vivli’s guidance on data standards](https://vivli.org/wp-content/uploads/2023/01/NIH-DMSP-Template-and-Budget-Justification-Using-Vivli-v1.0.docx#:~:text=VIVLI%20Notes%3A%20Vivli%20does%20not,%2C%20csv)%20used%20for%20analysis.), where they recommend following [CDISC standards](https://www.cdisc.org/standards/therapeutic-areas).
+:::
+
+
+
+:::
 
 
 

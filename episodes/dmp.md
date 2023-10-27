@@ -31,11 +31,11 @@ The research data lifecycle represents the stages of data collection, use, and r
 
 The National Center for Data Services (part of the Network of the National Library for Medicine) defines Data Management Plans in their [Data Glossary](https://www.nnlm.gov/guides/data-glossary):
 
-::: callout
-“A Data Management Plan (DMP or DMSP) details how data will be collected, processed, analyzed, described, preserved, and shared during the course of a research project. A data management plan that is associated with a research study must include comprehensive information about the data such as the types of data produced, the metadata standards used, the policies for access and sharing, and the plans for archiving and preserving data so that it is accessible over time. Data management plans ensure that data will be properly documented and available for use by other researchers in the future. 
 
-Data management plans are often required by grant funding agencies, such as the National Science Foundation (NSF) or National Institute of Health (NIH), and are ~2-page documents submitted as part of a grant application process.”
-:::
+*“A Data Management Plan (DMP or DMSP) details how data will be collected, processed, analyzed, described, preserved, and shared during the course of a research project. A data management plan that is associated with a research study must include comprehensive information about the data such as the types of data produced, the metadata standards used, the policies for access and sharing, and the plans for archiving and preserving data so that it is accessible over time. Data management plans ensure that data will be properly documented and available for use by other researchers in the future.*
+
+*Data management plans are often required by grant funding agencies, such as the National Science Foundation (NSF) or National Institute of Health (NIH), and are ~2-page documents submitted as part of a grant application process.”*
+
 
 A data management plan, sometimes also called a data management and sharing plan, is generally written by a researcher as part of the planning process before embarking on a project. Spending the time writing a DMP itself can clarify how to carry out data management tasks throughout the entire research data lifecycle. The process also creates a document that can be shared with lab staff or referenced as needed. DMPs are considered a living document and should be updated as circumstances inevitably change through the course of a research project.
 

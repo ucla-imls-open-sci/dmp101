@@ -43,7 +43,8 @@ Some features of DMPTool are accessible without logging in. Watch this short vid
 - Search for sample DMPs
 - See a list of participating institution
 
-[Watch the Video](https://uab.app.box.com/s/dsddnq42h26z1gdubsgehu87evit98fl)
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1082912/sp/108291200/embedIframeJs/uiconf_id/44912111/partner_id/1082912?iframeembed=true&playerId=kaltura_player&entry_id=1_2ol1bol1&flashvars[localizationCode]=en&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_2ax1tc0n" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="DMP Tool Public Access Tutorial"></iframe>
+
 
 [Copy of Transcript](https://uab.box.com/s/7wd5sbyoflblw8nyk28uza8bs1vfmxpn)
 
@@ -59,16 +60,17 @@ One can log into the DMPTool using their SSO or by setting up an individual acco
 - Create a plan
 - Request feedback
 
-[Watch the video from 3:45](https://uab.box.com/s/np2ncyvk3ybnmilcy2erb20nu8rdor2a) 
-
-[Copy of transcript](https://uab.box.com/s/btqw24dup8michmsqvoxc24helicrso9)
-
 The highest level of access available is granted to the site administrator at your institution who may be someone in the library or in a different research support unit. The capabilities available at the admin level include:
+
 - Prepare DMP templates or custom guidelines for established templates
 - Respond to feedback request from researchers
 - View plans created at your institution and a list of registered users
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1082912/sp/108291200/embedIframeJs/uiconf_id/44912111/partner_id/1082912?iframeembed=true&playerId=kaltura_player&entry_id=1_m2rrd01y&flashvars[localizationCode]=en&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_4iqrcmfx" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="DMPTool Logged in Tutorial"></iframe>
+
+[Copy of transcript](https://uab.box.com/s/btqw24dup8michmsqvoxc24helicrso9)
 
 ::::::::::::::::::::: callout
 For more resources on using the DMPTool as an administrator, please see Episode 6.
