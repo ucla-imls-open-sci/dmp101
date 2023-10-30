@@ -2,6 +2,8 @@
 title: 'Reference'
 ---
 
+## References
+
 Borycz, J. (2021). Implementing Data Management Workflows in Research Groups Through Integrated Library Consultancy (1). 20(1), Article 1. https://doi.org/10.5334/dsj-2021-009
 
 Fuhr, J. (2022). Developing Data Services Skills in Academic Libraries. College & Research Libraries. https://doi.org/10.5860/crl.83.3.474
@@ -25,7 +27,37 @@ Tenopir, C., Hughes, D., Allard, S., Frame, M., Birch, B., Baird, L., Sandusky, 
 
 Yoon, A., & Schultz, T. (2017). Research Data Management Services in Academic Libraries in the US: A Content Analysis of Libraries’ Websites. College & Research Libraries. https://doi.org/10.5860/crl.78.7.920
 
+## Further Reading and Resources
 
+### Episode 1
+
+- [ICPSR Guide to Social Science Data Preparation and Archiving (especially pg.13)](https://drive.google.com/file/d/1ozBW4qBjnqa6E55B8c0rKz8SLniS6GzC/view?usp=sharing)
+- [NNLM Data Glossary](https://www.nnlm.gov/guides/data-glossary)
+- [NIH’s Protecting Privacy When Sharing Human Research Participant Data](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-213.html)
+- [HIPAA Deidentification Guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#rationale)
+- [NLM Scrubber (Deidentification Tool)](https://lhncbc.nlm.nih.gov/scrubber/)
+- [ARX Tabular Data Anonymization Tool](https://arx.deidentifier.org/)
+- [McGill Data Anonymization Workshop Series (available in November)](https://www.youtube.com/@mcgillu)
+
+### Episode 2
+
+- [NIH’s Desirable Characteristics for All Data Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/selecting-a-data-repository#desirable-characteristics-for-all-data-repositories)
+- [NIH’s Guide to Selecting a Data Repository](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/selecting-a-data-repository)
+- [Data Curation Primers](https://datacurationnetwork.org/outputs/data-curation-primers/)
+
+### Episode 3
+
+- [Carlson, Jake, "The Data Curation Profiles Toolkit: Interview Worksheet" (2010). Data Curation Profiles Toolkit. Paper 3.](http://dx.doi.org/10.5703/1288284315652)
+- [Open file formats](https://opendatahandbook.org/guide/en/appendices/file-formats/)
+
+### Episode 4
+
+- [NNLM Creating Data Management Plans with DMPTool (Webinar recording)](https://www.nnlm.gov/training/class/creating-data-management-plans-dmptool)
+- [DMPTool Administrator Wiki](https://github.com/CDLUC3/dmptool/wiki/help-for-administrators)
+
+### Episode 5
+
+- [Policy Readiness Checklist for Librarians](https://osf.io/4e6wd)
 
 ## Glossary
 
