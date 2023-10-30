@@ -112,6 +112,7 @@ Researchers may ask if they can list you as the librarian for helping them plan 
 - Researchers are not accustomed to submitting data to a repository
 - There are many reasons a researcher may be hesitant to share their data. This can include a lack of sharing culture within their disciple, fear of their research getting “scooped” (having your research idea or results published by someone else), or the additional labor associated with preparing their dataset after the active research phase.
 
+::: challenge
 
 ## Assessments
 
@@ -123,4 +124,5 @@ Conduct a data interview with a classmate. The “researcher” will read the sc
 **Scenario 1:** You are a researcher writing a grant proposal to be submitted to the NIH. You have heard that a data management and sharing plan is required for NIH grant applications, but you don’t know any details.\
 **Scenario 2:** You are a researcher working to publish an article in a journal. You have just found out you need to make your data open by depositing it in a repository to satisfy journal requirements. You aren’t sure which repository to choose.
 
+:::
 

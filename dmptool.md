@@ -54,6 +54,8 @@ Some features of DMPTool are accessible without logging in. Watch this short vid
 
 Go to the [DMPTool](https://dmptool.org/) and click on “participating institutions” to find out if your institution is on the list. If so, you may log in to the platform using your institutional account or Single Sign On (SSO). If you are an administrator (librarian or otherwise) and want to learn more about becoming a participating institution, please contact the [DMPTool administrators](https://dmptool.org/contact-us).
 
+::::::::::::::::::::::::::::::::::::::::::::::::
+
 One can log into the DMPTool using their SSO or by setting up an individual account. Watch this video for a demonstration on how to:
 
 - Find DMP plans shared by other researchers at your institution 
@@ -66,7 +68,7 @@ The highest level of access available is granted to the site administrator at yo
 - Respond to feedback request from researchers
 - View plans created at your institution and a list of registered users
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1082912/sp/108291200/embedIframeJs/uiconf_id/44912111/partner_id/1082912?iframeembed=true&playerId=kaltura_player&entry_id=1_m2rrd01y&flashvars[localizationCode]=en&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_4iqrcmfx" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="DMPTool Logged in Tutorial"></iframe>
 
