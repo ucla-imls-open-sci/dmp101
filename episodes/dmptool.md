@@ -56,7 +56,7 @@ Go to the [DMPTool](https://dmptool.org/) and click on “participating institut
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-One can log into the DMPTool using their SSO or by setting up an individual account. Watch this video for a demonstration on how to:
+One can log into the DMPTool using their SSO or by setting up an individual account. Watch this video for a demonstration  by a user from a participating institution on how to:
 
 - Find DMP plans shared by other researchers at your institution 
 - Create a plan
