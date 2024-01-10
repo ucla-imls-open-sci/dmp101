@@ -1,7 +1,7 @@
 ---
 title: 'DMP Resources'
 teaching: 10
-exercises: 3
+exercises: 10
 ---
 
 ::: questions
