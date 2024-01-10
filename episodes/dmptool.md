@@ -1,5 +1,5 @@
 ---
-title: 'DMPTool'
+title: 'DMPTool and Common DMP Issues'
 teaching: 10
 exercises: 2
 ---
