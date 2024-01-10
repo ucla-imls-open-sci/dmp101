@@ -54,7 +54,7 @@ Like all varieties of librarian, data librarians have their own organizations an
 - [Research Data Alliance](https://www.rd-alliance.org/) - Organization of member institutions devoted to enabling open sharing and reuse of data. Provides training and events.
 
 ## Data Management Plan Services
-### Data Consultations
+### Data Management Plan Consultations
 In libraries that provide DMP services, the most common offerings are data management plan consultations. We discussed how to provide a data consultation in Episode 3. Research data consultations can be an easy way to integrate DMP support into your offerings, as these questions can be asked during regular research consultations or email communications to determine research needs. Keep in mind that it is important to build up your network of internal data stakeholders before taking on data reference, since it is common for questions to be referred out to other units at your institution.
 
 ### DMP Draft Review 
