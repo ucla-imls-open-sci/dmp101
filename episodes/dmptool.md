@@ -1,7 +1,7 @@
 ---
 title: 'DMPTool and Common DMP Issues'
-teaching: 10
-exercises: 2
+teaching: 16
+exercises: 15
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
