@@ -74,7 +74,7 @@ Next, we move on to follow-up questions that relate to the DMP sections. Like in
 - If using a proprietary software, are you planning on saving your files in an open format for sharing and long-term preservation?
 
 ::: callout
-Proprietary software is owned by an organization that requires a license or a fee to access. Typically, this software will generate files formats specific to it (such as Excel .xlsx), and it might be difficult to open or manipulate it using other software. Converting these data files into an open format, a version that is easily accessible by many pieces of software, makes data more FAIR (such as from .xlsx to .csv or .tsv). For a list of open access file formats, please see the resources in Episode 6. 
+Proprietary software is owned by an organization that requires a license or a fee to access. Typically, this software will generate files formats specific to it (such as Excel .xlsx), and it might be difficult to open or manipulate it using other software. Converting these data files into an open format, a version that is easily accessible by many pieces of software, makes data more FAIR (such as from .xlsx to .csv or .tsv). For a list of open access file formats, please see the resources on the [references page](https://ucla-imls-open-sci.info/dmp101/reference.html). 
 :::
 
 ### Follow-up questions on access and reuse
