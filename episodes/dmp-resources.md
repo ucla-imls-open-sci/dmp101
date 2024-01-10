@@ -1,6 +1,6 @@
 ---
 title: 'DMP Resources'
-teaching: 10
+teaching: 18
 exercises: 10
 ---
 
