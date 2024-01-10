@@ -1,6 +1,6 @@
 ---
 title: 'Supporting Researchers'
-teaching: 10
+teaching: 12
 exercises: 2
 ---
 
@@ -107,9 +107,9 @@ Researchers may ask if they can list you as the librarian for helping them plan 
 - Do you need to pay for your dataset deposit?
 
 ## Tips for talking with researchers
-- Researchers have not been formally trained in data management and may not think about their project through this lens
-- Researchers speak a different language - they may assign a different meaning to metadata or data standards 
-- Researchers are not accustomed to submitting data to a repository
+- Researchers may have not been formally trained in data management and may not think about their project through this lens
+- Researchers often speak a different language - they may assign a different meaning to metadata or data standards 
+- Researchers may not be accustomed to submitting data to a repository
 - There are many reasons a researcher may be hesitant to share their data. This can include a lack of sharing culture within their disciple, fear of their research getting “scooped” (having your research idea or results published by someone else), or the additional labor associated with preparing their dataset after the active research phase.
 
 ::: challenge
