@@ -1,7 +1,7 @@
 ---
 title: 'Supporting Researchers'
 teaching: 12
-exercises: 2
+exercises: 15
 ---
 
 ::: questions
