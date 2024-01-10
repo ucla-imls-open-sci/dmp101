@@ -44,16 +44,13 @@ After locating the funder requirements, researchers may find it useful to see an
 
 Here are some places to check when looking for example DMPs:
 
-1. **University libguides.** Many research university libraries have created libguides that provide researchers with guidance on writing DMPs. Some library resources include boilerplate templates for specific funding agencies, or successfully funded researcher DMPs. To find university libguides, you can either search through the LibGuides Community or search google for DMP AND [funding agency] AND [libguide](https://community.libguides.com/).
+1. **University libguides.** Many research university libraries have created libguides that provide researchers with guidance on writing DMPs. Some library resources include boilerplate templates for specific funding agencies, or successfully funded researcher DMPs. To find university libguides, you can either search through the [LibGuides Community](https://community.libguides.com/) or search google for DMP AND [funding agency] AND libguide.
 
 
 1. **DMPTool.** The [DMPTool](https://dmptool.org/) is a free online application that helps guide researchers through writing plans, and even allows librarians to provide feedback along the way. The website [maintains templates](https://dmptool.org/public_templates) based on funder and program requirements, in addition to hosting public DMPs created by researchers using the DMPTool. In the [public DMPs](https://dmptool.org/public_plans) list, you can narrow your search by funding agency to find relevant examples. We will explore the DMPTool more in Episode 4.
 
 
-1. **Funder example DMPs.** Some funding agencies, [like the NIH](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan#sample-plans), have created example DMPs to provide researchers an idea of what they would like to see as part of their grant applications. 
-
-
-1. **Grant agencies DMP repositories.** Some granting agencies share data management plans submitted as part of grant applications through a public repository. An example of this is the Department of Transportation’s (DOT) [repository & open science access portal (rosap)](https://rosap.ntl.bts.gov/gsearch?collection=&terms=DMP+data+management+plan).
+1. **Funder example DMPs.** Some funding agencies, [like the NIH](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan#sample-plans), have created example DMPs to provide researchers an idea of what they would like to see as part of their grant applications. In addition, some granting agencies share data management plans submitted as part of grant applications through a public repository. An example of this is the Department of Transportation’s (DOT) [repository & open science access portal (rosap)](https://rosap.ntl.bts.gov/gsearch?collection=&terms=DMP+data+management+plan).
 
 
 1. **Example DMS plans website.** The Working Group on NIH DMSP Guidance created the [Example DMS Plans website](https://example-dms-plans.github.io/examples/), which aggregated stable versions of publicly available DMPs. It was compiled ahead of the rollout of the NIH DMS Policy.
