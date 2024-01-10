@@ -1,7 +1,7 @@
 ---
 title: 'Data Management Plan (DMP) Overview'
-teaching: 10
-exercises: 5
+teaching: 16
+exercises: 12
 editor_options: 
   markdown: 
     wrap: 72
