@@ -16,7 +16,7 @@ exercises: 2
 :::
 
 ## Introduction
-In this lesson, we pivot from learning about DMPs into how to apply this knowledge when serving patrons. We will provide insights into common questions and concerns researchers have about the DMP process, and describe strategies on how to effectively conduct a data interview.
+In this episode, we pivot from learning about DMPs into how to apply this knowledge when serving patrons. We will provide insights into common questions and concerns researchers have about the DMP process, and describe strategies on how to effectively conduct a data interview.
 
 ## Data Interview
 According to the [NNLM’s data glossary](https://www.nnlm.gov/guides/data-glossary/data-interview), “a data interview in the library context refers to an interaction between a librarian and a researcher with a structured or semi-structured set of questions designed to elicit information about the researcher’s data practices and/or needs.” 
