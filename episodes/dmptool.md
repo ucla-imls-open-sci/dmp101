@@ -75,7 +75,7 @@ The highest level of access available is granted to the site administrator at yo
 [Copy of transcript](https://uab.box.com/s/btqw24dup8michmsqvoxc24helicrso9)
 
 ::::::::::::::::::::: callout
-For more resources on using the DMPTool as an administrator, please see Episode 6.
+For more resources on using the DMPTool as an administrator, please see [the references page](https://ucla-imls-open-sci.info/dmp101/reference.html).
 :::::::::::::::::::::
 
 ::::::::::::::::::::::::::::: challenge
@@ -109,7 +109,7 @@ Q2. For participating institutions, it is possible to find plans developed by re
   
   
 ::::::::::::::::::::::::: solution
-Choice A is correct. Located at the bottom of the page from all authors from your institution who gave permission to share their plan.
+Choice A is correct. At the bottom of your dashboard you can see plans for your instition. This section shows plans from all authors who gave permission to share their plan.
 ::::::::::::::::::::::::::::::::::
   
 ::::::::::::::::::::::::::::::
@@ -138,7 +138,7 @@ Please note that constructive feedback may differ if the research agrees to a co
 
 **Constructive feedback:**
 
-- *In a consultation*, ask the researcher if they used language from another template or plan, and if they understood everything they were proposing. Go through each section and use the data interview questions in Episode 3 to help the researcher customize the plan to their needs
+- *In a consultation*, ask the researcher if they used language from another template or plan, and if they understood everything they were proposing. Go through each section and use the data interview questions in Episode 3 to help the researcher customize the plan to their needs.
 - *In the DMPTool or email*, call out the sections that do not make sense for the project. Suggest that they consider how to modify the template language to better fit with their project workflow and make it easier to follow-through to meet funder requirements. Offer to schedule a consultation to discuss this more in person.
 
 ### Including additional information that does not qualify as research data 
