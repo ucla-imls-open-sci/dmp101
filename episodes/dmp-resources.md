@@ -30,7 +30,7 @@ Here are some places to check for funder requirements:
 In case the funding announcement does not have the information you need, proceed to the other items on this list.
 
 
-1. **Funder application instructions or website.** Large funders will have a website set up to help researchers through the application process. Looking through the documentation can help you understand their requirements for data management plans. This example from the NIH application instructions redirects you to sharing.nih.gov, their website specifically for data sharing: ![](fig/Copy of NIH application instructions.PNG){alt="NIH application instructions.PNG"}
+1. **Funder application instructions or website.** Large funders will have a website set up to help researchers through the application process. Looking through the documentation can help you understand their requirements for data management plans. This example from the NIH application instructions redirects you to [sharing.nih.gov](https://sharing.nih.gov/), their website specifically for data sharing: ![](fig/Copy of NIH application instructions.PNG){alt="NIH application instructions.PNG"}
 
 1. [The SPARC directory of data sharing requirements](https://datasharing.sparcopen.org/) **of federal agencies.** SPARC stands for the Scholarly Publishing and Academic Resources Coalition, and is a non-profit that supports open research and education systems. Through this website, you can view and compare data sharing policies from top funding organizations.
 
@@ -40,7 +40,7 @@ In case the funding announcement does not have the information you need, proceed
 
 ## Example DMPs
 
-After locating the funder requirements, researchers may find it usefful to see an example DMP written by others as part of their application to the same program or funding agency.
+After locating the funder requirements, researchers may find it useful to see an example DMP written by others as part of their application to the same program or funding agency.
 
 Here are some places to check when looking for example DMPs:
 
