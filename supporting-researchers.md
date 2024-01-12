@@ -24,10 +24,11 @@ This process is essentially a specialized subcategory of the reference interview
 
 Just like the reference interview begins with establishing a background purpose (“what is this information being used for”), you might want to begin broadly by asking researchers about their project and its purpose. This can help you to begin formulating follow-up questions that will extrapolate the researcher’s needs.
 
-::::::::::::: discussion
+::::::::::::: challenge
 Let’s say that the researcher responds with “I am running a project about the impact of pets on the emotional well-being of children” to the question “what is the purpose of your research”.
 
 What has this short response told you about the researcher’s project and needs? 
+
 
 :::: solution
 Children are the subject of the research, so it is a human subject’s study.
@@ -194,6 +195,12 @@ Conduct a data interview with a classmate. The “researcher” will read the sc
 
 **Scenario 1:** You are a researcher writing a grant proposal to be submitted to the NIH. You have heard that a data management and sharing plan is required for NIH grant applications, but you don’t know any details.\
 **Scenario 2:** You are a researcher working to publish an article in a journal. You have just found out you need to make your data open by depositing it in a repository to satisfy journal requirements. You aren’t sure which repository to choose.
+
+:::::::: keypoints
+- A data interview is related to, but not the same as the reference interview.
+- Use the follow up questions in this section in your data interview to elicit the information needed to improve researcher DMPs.
+- Researchers may be new to sharing data and data management
+:::::::
 
 :::
 
