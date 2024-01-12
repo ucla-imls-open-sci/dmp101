@@ -74,7 +74,12 @@ Write down three challenges you anticipate at your institution when implementing
 ::::::::::::::::::::::::::::::::::
 
 
+:::::: keypoints
+- When preparing to start DMP services in your library, reach out to other institutional stakeholders for collaboration.
+- Join a professional organization to get support from other librarians.
+- There are many possible data services libraries can provide. Pick whichever one suits your institution best.
 
+::::::::::
 
 
 
