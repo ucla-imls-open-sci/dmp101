@@ -262,3 +262,8 @@ Choice B
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::: keypoints
+- The DMPTool is a click through wizard that helps researchers create a compliant DMP.
+- If they are in a member institution, librarians can provide guidance and give feedback to researchers through the DMPTool.
+- Librarians will see similar issues in researcher DMPs over and over. Use the guidance in this section to prepare.
+:::::::::::
