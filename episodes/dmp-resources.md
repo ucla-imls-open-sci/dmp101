@@ -11,7 +11,7 @@ exercises: 10
 :::
 
 ::: objectives
-1. find funder requirements for a DMP
+1. Find funder requirements for a DMP
 2. Successfully search for example DMPs
 3. Find FAIR data repositories appropriate for a patron's research project
 4. Match a data type with appropriate data standards
@@ -184,7 +184,9 @@ Discuss your answer and how you arrived at that conclusion with a partner.
 
 
 :::
-
+:::: keypoints
+- Librarians need to be able to find funder requirements, example DMPs, data repositories and data standards to answer researcher questions.
+:::::
 
 
 
