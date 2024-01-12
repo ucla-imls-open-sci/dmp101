@@ -62,17 +62,15 @@ One can log into the DMPTool using their SSO or by setting up an individual acco
 - Create a plan
 - Request feedback
 
+  <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1082912/sp/108291200/embedIframeJs/uiconf_id/44912111/partner_id/1082912?iframeembed=true&playerId=kaltura_player&entry_id=1_m2rrd01y&flashvars[localizationCode]=en&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_4iqrcmfx" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="DMPTool Logged in Tutorial"></iframe>
+
+  [Copy of transcript](https://uab.box.com/s/btqw24dup8michmsqvoxc24helicrso9)
+
 The highest level of access available is granted to the site administrator at your institution who may be someone in the library or in a different research support unit. The capabilities available at the admin level include:
 
 - Prepare DMP templates or custom guidelines for established templates
 - Respond to feedback request from researchers
 - View plans created at your institution and a list of registered users
-
-
-
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1082912/sp/108291200/embedIframeJs/uiconf_id/44912111/partner_id/1082912?iframeembed=true&playerId=kaltura_player&entry_id=1_m2rrd01y&flashvars[localizationCode]=en&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_4iqrcmfx" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="DMPTool Logged in Tutorial"></iframe>
-
-[Copy of transcript](https://uab.box.com/s/btqw24dup8michmsqvoxc24helicrso9)
 
 ::::::::::::::::::::: callout
 For more resources on using the DMPTool as an administrator, please see [the references page](https://ucla-imls-open-sci.info/dmp101/reference.html).
@@ -116,7 +114,7 @@ Choice A is correct. At the bottom of your dashboard you can see plans for your 
 
 ## Common DMP Issues
 
-When you begin assisting researchers with thinking about data management planning and revising their DMPs, you will begin noticing trends that will make issues easier to spot in the future. Below are some common issues, how they can be identified, and constructive feedback that can be provided to improve the DMP.
+Below are some common issues, how they can be identified, and constructive feedback that can be provided to improve the DMP. As you begin to assist researchers with data management planning and revising their DMPs, you too will notice these and other trends that will make issues easier to spot in the future.
 
 ::::::::::::::::::::::: callout
 Please note that constructive feedback may differ if the research agrees to a consultation, or if you are providing feedback through email or the DMPTool.
@@ -128,12 +126,12 @@ Please note that constructive feedback may differ if the research agrees to a co
 **How can you tell?**
 
 - The DMP reads like several different projects
-- The verbally-stated goals of the project are not aligned with what is written in the DMP
-- The action items in the DMP do not make sense for the project
+- The verbally stated goals of the project are not aligned with what is written in the DMP
+- The action items in the DMP are not appropriate for the project
 
 **Why this is an issue:**
 
-- By copying and pasting existing language exactly, researchers may not understand what they are promising the granting agency
+- By copying and pasting existing language, researchers may not understand what they are promising the granting agency
 - Researchers also miss out on examining their own processes and creating a plan that fits with their workflow
 
 **Constructive feedback:**
@@ -146,7 +144,7 @@ Please note that constructive feedback may differ if the research agrees to a co
 **How can you tell?**
 
 - Listed information includes “laboratory notebooks, preliminary analyses, drafts of scientific papers, plans for future research, peer review reports, communications with colleagues, or physical objects, such as laboratory specimens”, which do not fall under the research data definition (OMB circular A-110)
-- Other information that does not fall under this definition include evaluating student performance or courses as part of the project (data reported to the institution)
+- Includes other information that does not fall under this definition include evaluating student performance or courses as part of the project (data reported to the institution)
 - Lists other scholarship generated as part of this research project, such as which journals will be targeted for articles publications and which conferences will be attended to present findings
 
 **Why this is an issue:**
@@ -169,12 +167,12 @@ Please note that constructive feedback may differ if the research agrees to a co
 
 - It is difficult to plan for data management if the data to be generated within a project is not specified
 - It is possible that researchers do not have a good understanding of what counts as research data, which will make follow through on the plan difficult
-- It is also possible that researchers do not want to provide estimates or assumptions, but lack of information prevents the funding agency from understanding their project accurately
+- It is also possible that researchers do not want to provide estimates or assumptions, but lack of information prevents the funding agency from understanding their project fully
 
 **Constructive feedback:**
 
-- Using the information in Episode 1, state what information you were hoping to see in this section. It may also be helpful to provide sample language to give researchers a better idea of how others have filled out this section
-- Offer to schedule a consultation to help the researcher brainstorm what data might be generated as part of their project. Remind them that their best estimates should be included for now, and that the DMP can be updated later on when they have solidified their workflow
+- Using the information in Episode 1, state what information you were hoping to see in this section. It may also be helpful to provide sample language to give researchers a sense of what level of detail is expected in this section
+- Offer to schedule a consultation to help the researcher brainstorm what data might be generated as part of their project. Remind them that their best estimates should be included for now, and that the DMP can be updated once they have solidified their workflow
 
 ### The Metadata and Data Standards section does not contain sufficient data information
 
@@ -191,28 +189,28 @@ Please note that constructive feedback may differ if the research agrees to a co
 
 **Constructive feedback:**
 
-- Using the information in Episode 2, it might be helpful to define standards. You might also provide sample language from Episode 1 to give researchers a better idea of how others have filled out this section
-- Ask researchers to consider what the minimum information they need to provide so that their colleagues can understand their variables and replicate their analyses
-- Ask researchers if there are any controlled vocabularies within their discipline that they will be using as part of their project
+- Using the information in Episode 2, suggest standards to the researcher. You might also provide sample language from Episode 1 to give researchers a better idea of how others have filled out this section
+- Ask researchers to consider what the minimum information they need to provide so that colleagues can understand their variables and replicate their analyses
+- Ask researchers if there are any controlled vocabularies within their discipline that they will be using as part of the project
 
 ### The Access and Reuse section does not contain sufficient data information
 
 **How can you tell?**
 
 - The researcher states that data will not be shared and provides no further information
-- The researcher does not provide any information about data sharing, only that it will be destroyed
-- The researcher states that data will be shared only after a specific event which is not the end of the active research phase (researcher retirement, researcher death)
-- The researcher is overly restrictive in data sharing for nonsensitive data (eg., animal studies)
+- The researcher does not provide any information about data sharing, only that it will be destroyed (or maintained privately)
+- The researcher states that data will be shared only after a specific event later than the time specified by the funder guidelines (e.g., researcher retirement, researcher death)
+- The researcher is overly restrictive in sharing nonsensitive data (eg., animal studies)
 
 **Why this is an issue:**
 
-- Federally-funded research uses tax-payer money, and thus, should be made accessible to the public as widely and as soon as possible. Limiting the sharing of research results also limits research advancement through collaboration and limits the public’s access to information that was only made possible because of them. Sometimes data sharing is not possible because of the sensitive nature of the dataset. However, reasons for not sharing the dataset in a limited capacity (in aggregate, by using extra precautions such as data use agreements or controlled access repositories) needs to be clearly stated. Omitting this information prevents the funding agency from understanding their project accurately
+- Federally-funded research uses tax-payer money, and thus, should be made accessible to the public as widely and as soon as possible. Limiting the sharing of research results also limits research advancement through collaboration and limits the public’s access to information. Sometimes data sharing is not possible because of the sensitive nature of the dataset. However, reasons for not sharing the dataset in a limited capacity (in aggregate, by using extra precautions such as data use agreements or controlled access repositories) needs to be clearly stated. Omitting this information prevents the funding agency from understanding their project accurately
 - Not sharing because of the additional labor involved or the lack of data sharing within the discipline are not adequate reasons
 
 **Constructive feedback:**
 
 - Introduce the researcher to the concept of a data repository, explaining that it provides long-term sustainable access to datasets for free
-- Ask researchers if there are any specific reasons why they cannot share their data. Encourage them to state these reasons clearly if the data is sensitive. Otherwise, using the information in Episode 2, recommend the repositories in order from specialist repository, followed by an institutional or generalist repository
+- Ask researchers if there are any specific reasons why they cannot share their data. Encourage them to state these reasons clearly if the data is sensitive. Otherwise, using the information in Episode 2, make repository recommendations (prioritizing a specialist repository over an institutional or generalist repository)
 
 ### The location of dataset sharing provided in the Access and Reuse section is unsustainable
 
@@ -226,13 +224,13 @@ Please note that constructive feedback may differ if the research agrees to a co
 **Why this is an issue:**
 
 - As stated in Episode 2, making the dataset available as a supplementary file or on a personal website is not advisable because the long term sustainability of the website is unknown: it can be updated or taken down without warning
-- Making the data available only by request is also not sustainable because it requires the researcher to find, evaluate and curate the data every time it is requested. Moreover, email addresses change when researchers move institutions or retire. Studies have also demonstrated a lack of author compliance when data is actually requested.
-- Building their own repository for storing data is unsustainable because it requires time, resources, and maintenance over time. There is no need to reinvent the wheel when there are data repositories maintained by well-funded entities that are free to use.
+- Making the data available only by request is also not sustainable because it requires the researcher to find, evaluate and curate the data every time it is requested. Moreover, email addresses change when researchers move institutions or retire. Studies have demonstrated a lack of author compliance when data is actually requested.
+- Building their own repository for storing data is unsustainable because it requires time, resources, and maintenance. There is no need to reinvent the wheel when there are data repositories maintained by well-funded entities that are free to use.
 
 **Constructive feedback:**
 
 - Introduce the researcher to the concept of a data repository, explaining that it provides long-term sustainable access to datasets for free
-- Ask researchers if they are aware of any funder or publisher data repository recommendations that they can follow. Otherwise, using the information in Episode 2, recommend the repositories in order from specialist repository, followed by an institutional or generalist repository
+- Ask researchers if they are aware of any funder or publisher data repository recommendations that they can follow. Otherwise, make repository recommendations using the information in Episode 2.
 
 
 
