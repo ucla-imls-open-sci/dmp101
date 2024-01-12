@@ -16,7 +16,7 @@ exercises: 15
 :::
 
 ## Introduction
-In this episode, we pivot from learning about DMPs into how to apply this knowledge when serving patrons. We will provide insights into common questions and concerns researchers have about the DMP process, and describe strategies on how to effectively conduct a data interview.
+So far, we have covered what a data management plan looks like, what each subsection contains, and where to locate resources that connect to the researcher’s specific need. In this section, we pivot from learning about DMPs into how to apply this knowledge when serving patrons. We will provide insights into common questions and concerns researchers have about the DMP process, and describe strategies on how to effectively conduct a data interview.
 
 ## Data Interview
 According to the [NNLM’s data glossary](https://www.nnlm.gov/guides/data-glossary/data-interview), “a data interview in the library context refers to an interaction between a librarian and a researcher with a structured or semi-structured set of questions designed to elicit information about the researcher’s data practices and/or needs.” 
@@ -24,16 +24,42 @@ This process is essentially a specialized subcategory of the reference interview
 
 Just like the reference interview begins with establishing a background purpose (“what is this information being used for”), you might want to begin broadly by asking researchers about their project and its purpose. This can help you to begin formulating follow-up questions that will extrapolate the researcher’s needs.
 
-Librarian: “Please tell me a little bit about your project and its purpose”
-Researcher: “I am running a project about the impact of pets on the emotional well-being of children.”
+::::::::::::: discussion
+Let’s say that the researcher responds with “I am running a project about the impact of pets on the emotional well-being of children” to the question “what is the purpose of your research”.
+
+What has this short response told you about the researcher’s project and needs? 
+
+:::: solution
+Children are the subject of the research, so it is a human subject’s study.
+This means that researcher will probably need additional accommodations if they want to share their dataset. Children are also a protected population, which needs to be taken account when trying to answer the question should data be shared. Based on the information provided it is unclear what format the data will be in (Observational notes? Quantitative questionnaire responses? Qualitative interviews? Other?), and will therefore need to be explored more during the conversation. 
+::::
+:::::::::::
 
 Even short responses can give you an idea of who/what is the subject of the research, how sensitive this data may be, and the potential formats of the data. Even with this short response, you have already found out this is a human subjects study, and that this researcher will need additional accommodations if they want to share their dataset. Like in a reference interview, it is useful to paraphrase the project back to the researcher and ask clarifying questions to make sure you have a good grasp of the research purpose.
 
 After establishing the purpose of the project, it is helpful to ask about where the researcher is applying for grant funding and their timeline for submitting materials. Researchers who are not applying for grant funding can still benefit from writing a data management plan, and these questions can help them consider their project needs and what workflows need to be put into place.
 
-Next, we move on to follow-up questions that relate to the DMP sections. Like in a reference interview, these questions move from open-ended to closed, specific questions to clarify needs not raised by the researcher. Use the purpose of the project to inform your questions, and help the researcher think through their workflow and needs. Sometimes the researcher will answer “I am not sure”. This is an opportunity to explore what they think they will do, and to provide some options as to how they may proceed. Remind the researcher that a DMP can (and should) be updated as necessary to better align with their procedures as the project evolves. 
+Next, we move on to follow-up questions that relate to the DMP sections. Like in a reference interview, these questions move from open-ended to closed, specific questions to clarify needs not raised by the researcher. Use the purpose of the project to inform your questions, and help the researcher think through their workflow and needs. Sometimes the researcher will answer “I am not sure”. This is an opportunity to explore what they think they will do, and to provide some options as to how they may proceed. Remind the researcher that a DMP can (and should) be updated as necessary to better align with their procedures as the project evolves.
+
+::::::::: instructor
+Instructors might take this opportunity to use the sample researcher response or some other project to help learners brainstorm questions within each section. 
+:::::::::
 
 ### Follow-up questions on data description and size
+
+Let’s start with the first DMP section “Data Description and Format”. 
+
+::::::::::::::::: challenge
+What should this section contain?
+
+::::::: solution
+This section of a DMP provides a brief description of what data will be collected as part of the research project and their formats. Information about general files size (MB / GB per file) and estimated total number of files can be helpful. 
+::::::::
+::::::::::::
+
+To summarize, we are looking for WHAT data will be generated and HOW MUCH data will be generated, both in terms of size and quantity.
+
+What sort of questions can we ask to get at this information?
 
 - What is your target sample size?
 - How are you collecting data?
@@ -52,6 +78,16 @@ Next, we move on to follow-up questions that relate to the DMP sections. Like in
 - How often are you collecting information for each subject throughout the study?
 
 ### Follow-up questions on metadata and data standards
+::::::::::::::::: challenge
+What should this section contain?
+
+::::::: solution
+This section provides information about what standards will be used, giving context to the data generated for easier interpretation and reuse. 
+::::::::
+::::::::::::
+To summarize, we are looking for HOW data is documented, and how that documentation is standardized to make it easier to understand and reuse. 
+
+What sort of questions can we ask to get at this information?
 
 - How are you documenting your variables?
     - Are you using abbreviations that need defining?
@@ -64,6 +100,18 @@ Next, we move on to follow-up questions that relate to the DMP sections. Like in
   - Recreate your analyses?
 
 ### Follow-up questions on preservation and access
+::::::::::::::::: challenge
+What should this section contain?
+
+::::::: solution
+This section provides information about when data will be backed-up, preserved, and published, as well as data security. 
+::::::::
+::::::::::::
+
+To summarize, we are looking for HOW data is secured as well as preserved for future access. 
+
+What sort of questions can we ask to get at this information?
+
 - Where are you storing the paper copies of the questionnaires?
 - Where are you storing the audio recordings of your interviews? 
   - Are you planning on transcribing your interviews?
@@ -78,6 +126,17 @@ Proprietary software is owned by an organization that requires a license or a fe
 :::
 
 ### Follow-up questions on access and reuse
+::::::::::::::::: challenge
+What should this section contain?
+
+::::::: solution
+This section provides information about where the data will be made publicly available, and includes a justification why the repository chosen will help with dissemination, preservation, and reuse.  
+::::::::
+::::::::::::
+
+To summarize, we are looking for WHERE data is stored long-term, and why it is the best choice for discovery, reuse and preservation.
+
+What sort of questions can we ask to get at this information?
 - Are you planning on sharing your data in the future?
     - Do you have any obligations from your funder to share your data?
     - Where are you planning on publishing your articles? Does the publisher have any data sharing requirements?
@@ -88,6 +147,17 @@ Proprietary software is owned by an organization that requires a license or a fe
   - Discuss embargoes, controlled vs open access
 
 ### Follow-up questions on oversight
+::::::::::::::::: challenge
+What should this section contain?
+
+::::::: solution
+This section provides information about who is responsible for data oversight, which includes deciding how often or when actions such as backup, converting files to open access versions, depositing the data into a repository, long term preservation, and data destruction will occur. 
+::::::::
+::::::::::::
+
+To summarize, we are looking for WHO takes responsibility for the data during the project, in the short and long term, and ON WHAT timeline. 
+
+What sort of questions can we ask to get at this information?
 - Who is coding your data? How are you maintaining accuracy?
     - Data checks? Double entry? Controlled entry?
 - Who is responsible for backing up your data? How often?
@@ -99,6 +169,7 @@ Researchers may ask if they can list you as the librarian for helping them plan 
 :::
 
 ### Follow-up questions on budget
+Consider costs associated with data management. 
 
 - Where are you planning on storing your data during the active research phase?
   - Do you need additional or specific types of platforms that the university does not provide? Do these have costs?
