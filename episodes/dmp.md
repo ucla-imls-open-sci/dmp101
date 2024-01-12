@@ -165,6 +165,10 @@ Although most data management plans do not have a dedicated section on costs, da
 
 :::
 
+::::::::: keypoints
+- Data management plans should be written during the planning phase of research and revised as needed.
+- In general, a DMP should contain sections on data description and format, metadata and data standards, preservation and access timeline, access and reuse, oversight, and budget.
+:::::::::
 
 
 
