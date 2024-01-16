@@ -1,7 +1,7 @@
 ---
 title: 'Supporting Researchers'
 teaching: 12
-exercises: 15
+exercises: 20
 ---
 
 ::: questions
@@ -43,7 +43,7 @@ After establishing the purpose of the project, it is helpful to ask about where 
 Next, we move on to follow-up questions that relate to the DMP sections. Like in a reference interview, these questions move from open-ended to closed, specific questions to clarify needs not raised by the researcher. Use the purpose of the project to inform your questions, and help the researcher think through their workflow and needs. Sometimes the researcher will answer “I am not sure”. This is an opportunity to explore what they think they will do, and to provide some options as to how they may proceed. Remind the researcher that a DMP can (and should) be updated as necessary to better align with their procedures as the project evolves.
 
 ::::::::: instructor
-Instructors might take this opportunity to use the sample researcher response or some other project to help learners brainstorm questions within each section. 
+Instructors might take this opportunity to use the sample researcher response or some other project to help learners brainstorm questions within each section. Answers to these challenges can be found in episode 1. 
 :::::::::
 
 ### Follow-up questions on data description and size
@@ -51,7 +51,7 @@ Instructors might take this opportunity to use the sample researcher response or
 Let’s start with the first DMP section “Data Description and Format”. 
 
 ::::::::::::::::: challenge
-What should this section contain?
+What information should this section contain?
 
 ::::::: solution
 This section of a DMP provides a brief description of what data will be collected as part of the research project and their formats. Information about general files size (MB / GB per file) and estimated total number of files can be helpful. 
@@ -80,7 +80,7 @@ What sort of questions can we ask to get at this information?
 
 ### Follow-up questions on metadata and data standards
 ::::::::::::::::: challenge
-What should this section contain?
+What information should this section contain?
 
 ::::::: solution
 This section provides information about what standards will be used, giving context to the data generated for easier interpretation and reuse. 
@@ -102,7 +102,7 @@ What sort of questions can we ask to get at this information?
 
 ### Follow-up questions on preservation and access
 ::::::::::::::::: challenge
-What should this section contain?
+What information should this section contain?
 
 ::::::: solution
 This section provides information about when data will be backed-up, preserved, and published, as well as data security. 
@@ -128,7 +128,7 @@ Proprietary software is owned by an organization that requires a license or a fe
 
 ### Follow-up questions on access and reuse
 ::::::::::::::::: challenge
-What should this section contain?
+What information should this section contain?
 
 ::::::: solution
 This section provides information about where the data will be made publicly available, and includes a justification why the repository chosen will help with dissemination, preservation, and reuse.  
@@ -138,6 +138,7 @@ This section provides information about where the data will be made publicly ava
 To summarize, we are looking for WHERE data is stored long-term, and why it is the best choice for discovery, reuse and preservation.
 
 What sort of questions can we ask to get at this information?
+
 - Are you planning on sharing your data in the future?
     - Do you have any obligations from your funder to share your data?
     - Where are you planning on publishing your articles? Does the publisher have any data sharing requirements?
@@ -149,7 +150,7 @@ What sort of questions can we ask to get at this information?
 
 ### Follow-up questions on oversight
 ::::::::::::::::: challenge
-What should this section contain?
+What information should this section contain?
 
 ::::::: solution
 This section provides information about who is responsible for data oversight, which includes deciding how often or when actions such as backup, converting files to open access versions, depositing the data into a repository, long term preservation, and data destruction will occur. 
@@ -159,6 +160,7 @@ This section provides information about who is responsible for data oversight, w
 To summarize, we are looking for WHO takes responsibility for the data during the project, in the short and long term, and ON WHAT timeline. 
 
 What sort of questions can we ask to get at this information?
+
 - Who is coding your data? How are you maintaining accuracy?
     - Data checks? Double entry? Controlled entry?
 - Who is responsible for backing up your data? How often?
@@ -173,7 +175,7 @@ Researchers may ask if they can list you as the librarian for helping them plan 
 Consider costs associated with data management. 
 
 - Where are you planning on storing your data during the active research phase?
-  - Do you need additional or specific types of platforms that the university does not provide? Do these have costs?
+- Do you need additional or specific types of platforms that the university does not provide? Do these have costs?
 - Do you need to pay someone to manage your research data?
 - Do you need to pay for data de-identification or curation?
 - Do you need to pay for your dataset deposit?
@@ -196,11 +198,10 @@ Conduct a data interview with a classmate. The “researcher” will read the sc
 **Scenario 1:** You are a researcher writing a grant proposal to be submitted to the NIH. You have heard that a data management and sharing plan is required for NIH grant applications, but you don’t know any details.\
 **Scenario 2:** You are a researcher working to publish an article in a journal. You have just found out you need to make your data open by depositing it in a repository to satisfy journal requirements. You aren’t sure which repository to choose.
 
+
+:::
 :::::::: keypoints
 - A data interview is related to, but not the same as the reference interview.
 - Use the follow up questions in this section in your data interview to elicit the information needed to improve researcher DMPs.
 - Researchers may be new to sharing data and data management
 :::::::
-
-:::
-
