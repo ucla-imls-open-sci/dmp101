@@ -37,7 +37,7 @@ Yoon, A., & Schultz, T. (2017). Research Data Management Services in Academic Li
 - [HIPAA Deidentification Guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#rationale)
 - [NLM Scrubber (Deidentification Tool)](https://lhncbc.nlm.nih.gov/scrubber/)
 - [ARX Tabular Data Anonymization Tool](https://arx.deidentifier.org/)
-- [McGill Data Anonymization Workshop Series (available in November)](https://www.youtube.com/@mcgillu)
+- [McGill Data Anonymization Workshop Series](https://www.youtube.com/playlist?list=PLfMfJihLOASUMZwKQ32OQkOfTEv20spmH)
 
 ### Episode 2
 
@@ -59,7 +59,4 @@ Yoon, A., & Schultz, T. (2017). Research Data Management Services in Academic Li
 
 - [Policy Readiness Checklist for Librarians](https://osf.io/4e6wd)
 
-## Glossary
-
-This is a placeholder file. Please add content here. 
 
