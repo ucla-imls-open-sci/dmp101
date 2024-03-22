@@ -41,7 +41,7 @@ Some features of DMPTool are accessible without logging in. Watch this short vid
 
 - Look up funder requirements
 - Search for sample DMPs
-- See a list of participating institution
+- See a list of participating institutions
 
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1082912/sp/108291200/embedIframeJs/uiconf_id/44912111/partner_id/1082912?iframeembed=true&playerId=kaltura_player&entry_id=1_2ol1bol1&flashvars[localizationCode]=en&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_2ax1tc0n" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="DMP Tool Public Access Tutorial"></iframe>
 
