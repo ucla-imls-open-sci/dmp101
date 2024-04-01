@@ -1,5 +1,5 @@
 ---
-title: 'Data Management Plan Sevices'
+title: 'Data Management Plan Services'
 teaching: 10
 exercises: 10
 ---
