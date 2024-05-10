@@ -120,6 +120,7 @@ If working backwards isn't possible, here are some resources to find data standa
 - Research data alliance [metadata standards catalog](https://rdamsc.bath.ac.uk/)
 - [Fairsharing](https://fairsharing.org/) has a registry of standards
 - [Bioportal Ontologies](https://bioportal.bioontology.org/) catalogs ontologies, with a biomedical focus
+- [DCC guide to disciplinary metadata standards](https://www.dcc.ac.uk/guidance/standards/metadata) catalogs standards, tools, and use cases by subject area
 
 ## Quiz
 
