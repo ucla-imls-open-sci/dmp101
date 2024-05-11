@@ -1,4 +1,6 @@
 ---
+redirect_from: "/dmp101/"
+redirect_to: "http://newdomain.com/newpath/"
 site: sandpaper::sandpaper_site
 ---
 
