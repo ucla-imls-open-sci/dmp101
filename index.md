@@ -1,6 +1,6 @@
 ---
 redirect_from: "/dmp101/"
-redirect_to: "http://newdomain.com/newpath/"
+redirect_to: "https://librarycarpentry.org/lc-dmp101/"
 site: sandpaper::sandpaper_site
 ---
 
